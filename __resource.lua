@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'BAE'
-description 'Created in FTP RP https://discord.gg/WNHFhBdZT8, Custom QB-Menu with QB-TARGET for Crafting anything.. this is used to craft guns/ammo/parts and attachments'
+author 'Bae & Uploaded and Edit by Raj'
+description 'Guncrafting'
 version '0.1'
 
 shared_scripts {
