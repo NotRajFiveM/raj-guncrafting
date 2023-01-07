@@ -6,10 +6,18 @@ qb-core,
 qb-menu,
 qb-target
 
+
 Simple & Clean Script 
+
+
 Drag & Drop Script
+
+
 Latest QBCore 
+
 No File / IP Lock 
+
+
 Not Made by me :)
 
 
